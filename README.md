@@ -1,1 +1,1 @@
-# IE005-Introduction-to-Information-Technology
+# IE005 - Introduction to IT
