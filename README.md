@@ -1,4 +1,4 @@
-# IE005 - Introduction to IT
+# IE005 - Introduction to IT's Project
 
 ```
 ___Table of contents___
