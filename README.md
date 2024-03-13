@@ -16,5 +16,5 @@ ___Table of contents___
 2. W. Booth, G. Colomb, and J. Williams, "The Craft of Research," 3rd edition, Chicago Press.
 
 ### School Websites
-3. University Website: [https://uit.edu.vn](https://uit.edu.vn)
-4. Faculty of Information Technology, University of Information Technology Website: [https://fit.uit.edu.vn](https://fit.uit.edu.vn)
+3. VNUHCM - UIT's Website: [https://uit.edu.vn](https://uit.edu.vn)
+4. Faculty of Information Science and Engineering's Website: [https://fit.uit.edu.vn](https://fit.uit.edu.vn)
