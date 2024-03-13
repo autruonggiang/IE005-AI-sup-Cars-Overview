@@ -9,3 +9,12 @@ ___Table of contents___
 
 # REFERENCES
 ```
+## Study and Reference Materials
+
+### Reference Documents
+1. Student Handbook (2021).
+2. W. Booth, G. Colomb, and J. Williams, "The Craft of Research," 3rd edition, Chicago Press.
+
+### School Websites
+3. University Website: [https://uit.edu.vn](https://uit.edu.vn)
+4. Faculty of Information Technology, University of Information Technology Website: [https://fit.uit.edu.vn](https://fit.uit.edu.vn)
