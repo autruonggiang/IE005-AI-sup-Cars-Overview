@@ -1,20 +1,35 @@
-# IE005 - Introduction to IT's Project
+# IE005 Project – Introduction to Information Technology
+
+---
+
+## 📑 Table of Contents
 
 ```
-___Table of contents___
+# Chapter 1: Concepts and Fundamental Information about Artificial Intelligence  
+- Overview of AI  
+- Relationship Between AI and Automotive Operational Support Technologies  
 
-# Chapter 1: Concepts, basic information about Artificial Intelligence. Relationship with Automotive Operational Support Technology.
-# Chapter 2: In-depth exploration of Automotive Operational Support Technology.
-# Chapter 3: Potential and Challenges.
+# Chapter 2: In-depth Exploration of Automotive Operational Support Technology  
+- Key Technologies and Applications  
+- Integration with Intelligent Systems  
 
-# REFERENCES
+# Chapter 3: Potential and Challenges  
+- Opportunities for Development  
+- Technological and Ethical Challenges  
+
+# References
 ```
-## Study and Reference Materials
 
-### Reference Documents
-1. Student Handbook (2021).
-2. W. Booth, G. Colomb, and J. Williams, "The Craft of Research," 3rd edition, Chicago Press.
+---
 
-### School Websites
-3. VNUHCM - UIT's Website: [https://uit.edu.vn](https://uit.edu.vn)
-4. Faculty of Information Science and Engineering's Website: [https://fit.uit.edu.vn](https://fit.uit.edu.vn)
+## 📚 Study and Reference Materials
+
+### 📄 Reference Documents
+
+1. **Student Handbook** (2021) – Internal guideline and academic framework.  
+2. **W. Booth, G. Colomb, and J. Williams**. *The Craft of Research* (3rd Edition). University of Chicago Press.
+
+### 🌐 School Websites
+
+3. **UIT – VNUHCM Official Website**: [https://uit.edu.vn](https://uit.edu.vn)  
+4. **Faculty of Information Science and Engineering**: [https://fit.uit.edu.vn](https://fit.uit.edu.vn)
